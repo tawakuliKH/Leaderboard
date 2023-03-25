@@ -55,7 +55,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 To Do List <a name="about-project"></a>
+# 📖 Leaderboard <a name="about-project"></a>
 
 
 **TLeaderboard** is a simple project developed by javascript and webpack use of API, showing the scores of the players.
