@@ -58,7 +58,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 To Do List <a name="about-project"></a>
 
 
-**TLeaderboard** is a simple project developed by javascript and webpack, showing the scores of the students.
+**TLeaderboard** is a simple project developed by javascript and webpack use of API, showing the scores of the players.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -72,6 +72,7 @@ After you're finished please remove all the comments and instructions!
   <li><a href="https:///">Javascript</a></li>
   <li><a href="https:///">ES6</a></li>
   <li><a href="https:///">Webpack</a></li>
+  <li><a href="https:///">API</a></li>
   <li>
   </ul>
 </details>
@@ -94,6 +95,7 @@ After you're finished please remove all the comments and instructions!
 
 
 - **Webpack Implementation**
+- **API Implementation**
 - **Css Loaders**
 - **GitFlow**
 - **Real world need project**
@@ -103,7 +105,7 @@ After you're finished please remove all the comments and instructions!
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-- [Live Demo Link]()
+- [Watch Demo here](https://tawakulikh.github.io/Leaderboard/dist)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,17 +133,17 @@ Example command:
 
 Clone this repository to your desired folder:
 
-<!-- 
+
 
 ```sh
   cd my-folder
-  git clone git@github.com:tawakuliKH/To-Do-List.git
+  git git@github.com:tawakuliKH/Leaderboard.git
   cd To-Do-List
   npm install webpack webpack-cli --save-dev
   npm install --save lodash
   npm install --save-dev html-webpack-plugin
   npm install file-loader
-``` -->
+```
 
 
 ### Install
@@ -215,7 +217,6 @@ Example:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **Use Local Storage for recording**
 - [ ] **Apply a better user friendly interface**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -255,7 +256,7 @@ I would like to thank Microverse for inspiring students doing such great things.
 
 - **How did you use to record the data dynamically**
 
-  - I am recording data in local storage and retrieving it.
+  - I am recording data in Leaderboard API and fetching it.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
